@@ -79,7 +79,7 @@ A DOI for this software is available via [Zenodo](https://zenodo.org/). To cite 
 ##  Acknowledgments
 
 * [Gmsh](https://gmsh.info/) for its powerful geometry and meshing engine
-* [NGSolve](https://ngsolve.org/) for downstream simulation in DG/FEM pipelines
+* [NGSolve](https://ngsolve.org/) for downstream FEM
 * Transfinite meshing methods were inspired by theoretical work on sign-changing media for FEM, including:
 
   > A.-S. Bonnet-Ben Dhia, C. Carvalho, and P. Ciarlet Jr.,  
