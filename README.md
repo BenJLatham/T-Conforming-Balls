@@ -2,7 +2,7 @@
 
 # T-Conf: Symmetric Transfinite Mesh Generator
 
-[![CI](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml/badge.svg)](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml)
+[![CI](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/ci.yml/badge.svg)](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/ci.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15376402.svg)](https://doi.org/10.5281/zenodo.15376402)
 
 **T-Conf** is a Python library for constructing symmetric, transfinite-conforming meshes using [Gmsh](https://gmsh.info/) for geometries involving concentric **disks** (2D) and **spheres** (3D).
