@@ -2,7 +2,7 @@
 
 # T-Conf: Symmetric Transfinite Mesh Generator
 
-[![CI](https://github.com/YOUR_USERNAME/T-Conforming-Balls/actions/workflows/python-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/T-Conforming-Balls/actions/workflows/python-ci.yml)
+[![CI](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml/badge.svg)](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
 
 **T-Conf** is a Python library for constructing symmetric, transfinite-conforming meshes using [Gmsh](https://gmsh.info/) for geometries involving concentric **disks** (2D) and **spheres** (3D).
@@ -16,7 +16,7 @@ This project was developed for use in FEM methods, where symmetry and structured
 Clone the repository and install locally in editable mode:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/T-Conforming-Balls.git
+git clone https://github.com/BenJLatham/T-Conforming-Balls.git
 cd T-Conforming-Balls
 pip install -e .[dev]
 ````
