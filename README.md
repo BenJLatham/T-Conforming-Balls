@@ -3,7 +3,7 @@
 # T-Conf: Symmetric Transfinite Mesh Generator
 
 [![CI](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml/badge.svg)](https://github.com/BenJLatham/T-Conforming-Balls/actions/workflows/python-ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15376402.svg)](https://doi.org/10.5281/zenodo.15376402)
 
 **T-Conf** is a Python library for constructing symmetric, transfinite-conforming meshes using [Gmsh](https://gmsh.info/) for geometries involving concentric **disks** (2D) and **spheres** (3D).
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 A DOI for this software is available via [Zenodo](https://zenodo.org/). To cite this software:
 
-> Latham, B. (2025). *T-Conf: Symmetric Transfinite Mesh Generator*. Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)
+> Latham, B. (2025). *T-Conf: Symmetric Transfinite Mesh Generator*. Zenodo. [https://doi.org/10.5281/zenodo.15376402](https://doi.org/10.5281/zenodo.15376402)
 
 
 ---
