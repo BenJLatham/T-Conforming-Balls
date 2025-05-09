@@ -25,10 +25,10 @@ jobs:
           pip install .[dev]
 
       - name: Check black formatting
-        run: black --check T-Conf
+        run: black --check T_Conf
 
       - name: Run flake8 linting
-        run: flake8 T-Conf
+        run: flake8 T_Conf
 
       - name: Check CLI loads
         run: tconf --help
