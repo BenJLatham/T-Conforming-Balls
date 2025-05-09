@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "T-Conf"
+version = "0.1.0"
+description = "Symmetric transfinite mesh generator for concentric disks and spheres using Gmsh"
+authors = [{name = "Ben Latham", email = "blatham@ucmerced.edu"}]
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = [
+  "gmsh",
+  "numpy"
+]
+
+[project.scripts]
+tconf = "T_Conf.__main__:main"
+
+[project.optional-dependencies]
+dev = ["black", "flake8"]
+
+[tool.black]
+line-length = 100
+
+[tool.flake8]
+max-line-length = 100
+ignore = ["E203", "W503"]
+exclude = ["build", "dist", "__pycache__"]

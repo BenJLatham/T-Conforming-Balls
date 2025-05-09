@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: T-Conf
+Version: 0.1.0
+Summary: Symmetric transfinite mesh generator for concentric disks and spheres using Gmsh
+Author-email: Ben Latham <blatham@ucmerced.edu>
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: gmsh
+Requires-Dist: numpy
+Dynamic: license-file
+
+# T-Conforming-Balls
+

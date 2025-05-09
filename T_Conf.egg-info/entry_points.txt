@@ -1,0 +1,2 @@
+[console_scripts]
+tconf = T_Conf.__main__:main

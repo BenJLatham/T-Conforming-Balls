@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Gmsh files
+*.msh
+*.geo_unrolled
+*.geo.tmp
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# MacOS
+.DS_Store
+
+# Misc
+*.log
+*.bak
