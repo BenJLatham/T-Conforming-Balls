@@ -1,6 +1,5 @@
 ###  `README.md`
 
-````markdown
 # T-Conf: Symmetric Transfinite Mesh Generator
 
 [![CI](https://github.com/YOUR_USERNAME/T-Conforming-Balls/actions/workflows/python-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/T-Conforming-Balls/actions/workflows/python-ci.yml)
@@ -59,13 +58,7 @@ gmsh.fltk.run()
 ---
 
 ## Example Mesh Output
-
-
-```markdown
 ![Example Mesh](examples/sample_disk.png)
-```
-
-
 ---
 
 ##  License
@@ -92,5 +85,3 @@ A DOI for this software is available via [Zenodo](https://zenodo.org/). To cite 
   > A.-S. Bonnet-Ben Dhia, C. Carvalho, and P. Ciarlet Jr.,  
   > *Mesh Requirements for Finite Element Approximation of Problems with Sign-Changing Coefficients*,  
   > Numerische Mathematik 138, pp. 801–838 (2018).
-
-```
