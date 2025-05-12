@@ -10,7 +10,7 @@ from typing import Sequence, Optional
 import gmsh
 import numpy as np
 from T_Conf.utils import ensure_gmsh_available, find_missing_numbers
-from T_Conf.Sphere.transfinite import set_transfinite
+from T_Conf.transfinite import set_transfinite
 
 
 def revolve_surface(
